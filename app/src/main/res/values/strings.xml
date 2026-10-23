@@ -1,4 +1,0 @@
-<resources>
-    <string name="app_name">FocusGuard</string>
-    <string name="accessibility_description">Detects likely Reels or full-screen video screens in selected social apps and presses Back. Detection is experimental.</string>
-</resources>
